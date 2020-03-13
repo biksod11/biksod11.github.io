@@ -1,11 +1,11 @@
 # Site settings
 author: Bikram Sodhi
-title: 
+title: Sales -> Self-Discovery -> Software Engineering
 header-img: img/home-bg.png
 email: biksodhi@gmail.com
 copyright_name: Bikram Sodhi
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why software engineering?
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  biksod11
