@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sales -> Self-Discovery -> Software Engineering"
-date:       2020-03-14 00:23:21 +0000
+date:       2020-03-13 20:23:22 -0400
 permalink:  sales_-_self-discovery_-_software_engineering
 ---
 
